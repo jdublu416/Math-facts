@@ -4,6 +4,24 @@ body{
     text-align: center;
 
 }
+header{
+    height:150px;
+    background-color: darkslategrey;
+    margin-bottom:0;
+    padding-bottom:0;
+
+}
+
+.navContainer{
+    width:100%;
+    margin:auto;
+    background-color: navy;
+}
+
+#hdrTitle{
+    padding-top: 50px;
+    color: white;
+}
 
 .navStyle{
     padding: 20px 0;
@@ -19,4 +37,15 @@ main{
 img{
     height:150px;
     width:150px;
+}
+
+.timerRow{
+    background-color: lightgray;
+    height:100px;
+    
+}
+
+footer{
+    height:100px;
+    background-color: darkgrey;
 }
