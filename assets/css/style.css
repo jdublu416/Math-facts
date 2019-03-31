@@ -7,15 +7,17 @@ body{
 header{
     height:150px;
     background-color: darkslategrey;
-    margin-bottom:0;
-    padding-bottom:0;
+}
 
+#headerRow{
+    margin-bottom:0;
 }
 
 .navContainer{
     width:100%;
     margin:auto;
     background-color: navy;
+    padding-top:0;
 }
 
 #hdrTitle{
@@ -42,10 +44,11 @@ img{
 .timerRow{
     background-color: lightgray;
     height:100px;
-    
+    margin-bottom: 0;
+
 }
 
 footer{
     height:100px;
-    background-color: darkgrey;
+    background-color: #606060;
 }
