@@ -8,9 +8,12 @@ body{
 .navStyle{
     padding: 20px 0;
 }
+main{
+    height: 500px;
+}
 
 .imageBox{
-   
+   margin-top: 150px;
 }
 
 img{
